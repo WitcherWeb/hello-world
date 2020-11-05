@@ -1,3 +1,4 @@
 # hello-world
-my first repository for learning
-Hello my name is Adam
+This is my first repository.
+Hello my name is Adam.
+I like IT.
